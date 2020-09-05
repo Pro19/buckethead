@@ -13,30 +13,27 @@
                 "Population Override",
                 "Real Diamond In The Rough",
                 "Shadows Between The Sky"
-
             ],
             "pikes":[
-                [
-                    {
-                        "3 Foot Clearance":3,
-                        "Look Up There":5,
-                        "Claymation Courtyard":51,
-                        "Footsteps":60,
-                        "Hold Me Forever":65,
-                        "Leave The Light On":66,
-                        "Celery":71,
-                        "Northern Lights":95,
-                        "Project Little Man":104,
-                        "Sunken Parlor":210,
-                        "Sparks In The Dark":241,
-                        "Ride Operator Q Bozo":265,
-                        "Healing Outside Inside Every Side":276,
-                        "Unexpected Journey":278,
-                        "Skeleton Keys":279
-                    }
-                ]
+                {
+                    "3 Foot Clearance":3,
+                    "Look Up There":5,
+                    "Claymation Courtyard":51,
+                    "Footsteps":60,
+                    "Hold Me Forever":65,
+                    "Leave The Light On":66,
+                    "Celery":71,
+                    "Northern Lights":95,
+                    "Shaded Ray":121,
+                    "Project Little Man":104,
+                    "Sunken Parlor":210,
+                    "Sparks In The Dark":241,
+                    "Ride Operator Q Bozo":265,
+                    "Healing Outside Inside Every Side":276,
+                    "Unexpected Journey":278,
+                    "Skeleton Keys":279
+                }
             ]
         }
-
     ]
 }
